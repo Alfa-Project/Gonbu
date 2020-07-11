@@ -1,6 +1,6 @@
 # Gonbu
 
-Organização mantém os códigos do Gonbu
+Organização que mantém os códigos do Gonbu
 
 
 - :recycle: API
